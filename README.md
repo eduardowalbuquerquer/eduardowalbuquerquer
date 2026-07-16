@@ -21,7 +21,6 @@ I am an aspiring Frontend Developer on a journey to transform ideas into interac
 - 🌱 **I’m currently learning** JavaScript (ES6+) concepts and diving deep into React.js to build dynamic, component-based web applications.
 - 👯 **I’m looking to collaborate on** beginner-friendly open-source projects or UI/UX frontend challenges.
 - 🤔 **I’m looking for help with** mastering advanced JavaScript logic and learning best practices in React state management.
-- 💬 **Ask me about** semantic HTML, CSS layouts (Flexbox & Grid), mobile-first design, and my daily learning routine.
 - 📫 **How to reach me:** You can connect with me on [LinkedIn](https://www.linkedin.com/in/eduardo-albuquerque14011208/) or drop me an email at [eduardo.rasera@gmail.com].
 - ⚡ **Fun fact:** I decided to transition into tech because I love problem-solving, and I find creating something functional and beautiful from a blank screen absolutely addictive.
 
